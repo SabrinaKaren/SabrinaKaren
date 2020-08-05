@@ -1,4 +1,4 @@
-<img src="https://github.com/SabrinaKaren/SabrinaKaren/blob/master/media/eu_git_hub.png" alt="screenshot" width="250" align="right">
+<img src="https://github.com/SabrinaKaren/SabrinaKaren/blob/master/media/I_am_programmer.png" alt="screenshot" width="250" align="right">
 
 ## Olá, eu sou Sabrina, muito prazer em te ver por aqui! 👋
 - 💻 Atualmente eu trabalho como Analista desenvolvedora, e estou no mercado de trabalho como programadora desde 2017.
