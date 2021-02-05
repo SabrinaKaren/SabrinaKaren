@@ -5,7 +5,7 @@
 - 🎓 Sou graduada em Ciência da Computação e pós-graduada em Tecnologias em Aplicações Web.
 - 🔙 Minha primeira experiência profissional como programadora foi com AdvPl, que é uma linguagem própria do sistema Protheus.
 - 📚 Ficar parada ta por fora! 😝 Eu busco sempre aprender coisas novas, tanto dentro da área de tecnologia quanto na vida em geral. 😉
-- Atualmente eu trabalho com Angular no frontend, Java no backend e Flutter no mobile. 🤗
+- Atualmente eu trabalho com Flutter no mobile, Angular no frontend e Java no backend. 🤗
 - Eu sou apaixonada em séries, então nos meus momentos vagos eu gosto de maratonar 📺. Mas eu amo jogos também... de cartas, tabuleiro 🃏🎲. Eu amo escutar música, o tempo todo 🎶; e em paralelo, gosto de usar uns tempinhos vagos para tocar violão 🎸. Uma outra paixão que eu tenho é cubos mágicos, tenho alguns modelos, e resolve-los é muito acalmante e relaxante.
 - Para finalizar, vou falar de outra paixão minha que é viajar ✈️. Prefiro viajar para fora do país para ter o "choque cultural" 🎭, esta é uma das melhores partes de uma viagem. 
 
