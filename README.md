@@ -1,6 +1,6 @@
 <img src="https://github.com/SabrinaKaren/SabrinaKaren/blob/master/media/I_am_programmer.png" alt="screenshot" width="250" align="right">
 
-## Olá, eu sou Sabrina, muito prazer em te ver por aqui! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+<h2>Olá, eu sou Sabrina, muito prazer em te ver por aqui! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h2>
 
 <details>
   <summary><b>Minha tragetória</b></summary>
@@ -18,24 +18,53 @@
   <p> - Para finalizar, vou falar de outra paixão minha que é viajar ✈️. Prefiro viajar para fora do país para ter o "choque cultural" 🎭, esta é uma das melhores partes de uma viagem. <p/>
 </details>
 
+<details open>
+  <summary><b>Linguagens/Frameworks/Bibliotecas/Tecnologias</b></summary>
+  <br>
+  <code><img height="35" title="Java" src="https://i.pinimg.com/originals/e9/94/61/e99461fdd5b3db8bdb3081d8acf5e524.png"></code>
+  <code><img height="35" title="js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img height="35" title="ts" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png.png"></code>
+  <code><img height="35" title="Dart" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+  <span>✶</span>
+  <code><img height="35" title="Spring boot" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8TK6iZwBiQt1LF4Rl2iEF0yP4_i7qbVM1Mr5nwRu8Q7iI08ccZgtL5DBWZ4x8EiSMDQY&usqp=CAU"></code>
+  <code><img height="35" title="Angular" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+  <code><img height="35" title="Flutter" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+  <span>✶</span>
+  <code><img height="35" title="aws" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+  <code><img height="35" title="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  <code><img height="35" title="GitHub" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
+  <code><img height="35" title="VSCode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></code>
+  <code><img height="35" title="Azure devops" src="https://www.freelogovectors.net/wp-content/uploads/2022/03/azure_devops_logo_freelogovectors.net_.png"></code>
+</details>
+
+##
+
+<details open>
+  <summary><b>Repositórios</b></summary>
+  <br>
+  <div>
+    <a href="https://github.com/SabrinaKaren/comunicacao-microsservicos" title="Comunicação entre microsserviços">
+      <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SabrinaKaren&repo=comunicacao-microsservicos">
+    </a>
+    <a href="https://github.com/SabrinaKaren/flutter-helper" title="Helpers para Flutter">
+      <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SabrinaKaren&repo=flutter-helper">
+    </a>
+  </div>
+</details>
+
+##
+
+<div>
+  <a href="https://www.linkedin.com/in/sabrina-karen-b18740b6/">
+      <img src="https://img.shields.io/badge/-LinkedIn-0073b0?logo=Linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/sabrina_karen_s/">
+      <img src="https://img.shields.io/badge/-Instagram-ed4956?labelColor=ed4956&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.facebook.com/sabrina.karen.75/">
+      <img src="https://img.shields.io/badge/-Facebook-1877f2?labelColor=blue&logo=facebook&logoColor=white&color=1877f2">
+  </a>
+</div>
+<br>
+
 > 📚 Ficar parada ta por fora! 😝 Eu busco sempre aprender coisas novas, tanto dentro da área de tecnologia quanto na vida em geral. 😉
-
-##
-
-**Linguagens/Frameworks/Bibliotecas/Tecnologias**  
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="30" src="https://i.pinimg.com/originals/e9/94/61/e99461fdd5b3db8bdb3081d8acf5e524.png"></code>
-<code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8TK6iZwBiQt1LF4Rl2iEF0yP4_i7qbVM1Mr5nwRu8Q7iI08ccZgtL5DBWZ4x8EiSMDQY&usqp=CAU"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-##
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0073b0?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabrina-karen-b18740b6/)](https://www.linkedin.com/in/sabrina-karen-b18740b6/)
-[![Instagram](https://img.shields.io/badge/-Instagram-ed4956?labelColor=ed4956&logo=instagram&logoColor=white&link=https://www.instagram.com/sabrina_karen_s/)](https://www.instagram.com/sabrina_karen_s/)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877f2?labelColor=blue&logo=facebook&logoColor=white&color=1877f2&link=https://www.facebook.com/sabrina.karen.75)](https://www.facebook.com/sabrina.karen.75)
