@@ -19,22 +19,22 @@
 </details>
 
 <details open>
-  <summary><b>Linguagens/Frameworks/Bibliotecas/Tecnologias</b></summary>
+  <summary><b>Linguagens ◌ Frameworks ◌ Bibliotecas ◌ Tecnologias</b></summary>
   <br>
-  <code><img height="35" title="Java" src="https://i.pinimg.com/originals/e9/94/61/e99461fdd5b3db8bdb3081d8acf5e524.png"></code>
-  <code><img height="35" title="js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-  <code><img height="35" title="ts" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png.png"></code>
-  <code><img height="35" title="Dart" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-  <span>✶</span>
-  <code><img height="35" title="Spring boot" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8TK6iZwBiQt1LF4Rl2iEF0yP4_i7qbVM1Mr5nwRu8Q7iI08ccZgtL5DBWZ4x8EiSMDQY&usqp=CAU"></code>
-  <code><img height="35" title="Angular" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-  <code><img height="35" title="Flutter" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-  <span>✶</span>
-  <code><img height="35" title="aws" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-  <code><img height="35" title="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-  <code><img height="35" title="GitHub" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
-  <code><img height="35" title="VSCode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></code>
-  <code><img height="35" title="Azure devops" src="https://www.freelogovectors.net/wp-content/uploads/2022/03/azure_devops_logo_freelogovectors.net_.png"></code>
+  <code><img height="30" title="Java" src="https://i.pinimg.com/originals/e9/94/61/e99461fdd5b3db8bdb3081d8acf5e524.png"></code>
+  <code><img height="30" title="js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img height="30" title="ts" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png.png"></code>
+  <code><img height="30" title="Dart" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+  <span>＊</span>
+  <code><img height="30" title="Spring boot" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8TK6iZwBiQt1LF4Rl2iEF0yP4_i7qbVM1Mr5nwRu8Q7iI08ccZgtL5DBWZ4x8EiSMDQY&usqp=CAU"></code>
+  <code><img height="30" title="Angular" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+  <code><img height="30" title="Flutter" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+  <span>＊</span>
+  <code><img height="30" title="aws" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+  <code><img height="30" title="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  <code><img height="30" title="GitHub" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
+  <code><img height="30" title="VSCode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></code>
+  <code><img height="30" title="Azure devops" src="https://www.freelogovectors.net/wp-content/uploads/2022/03/azure_devops_logo_freelogovectors.net_.png"></code>
 </details>
 
 ##
