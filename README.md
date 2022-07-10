@@ -31,10 +31,15 @@
   <code><img height="30" title="Flutter" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
   <span>＊</span>
   <code><img height="30" title="aws" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+  <code><img height="30" title="Docker" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png"></code>
+  <code><img height="30" title="Swagger" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png"></code>
   <code><img height="30" title="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   <code><img height="30" title="GitHub" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
   <code><img height="30" title="VSCode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></code>
+  <code><img height="30" title="Postman" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8"></code>
   <code><img height="30" title="Azure devops" src="https://www.freelogovectors.net/wp-content/uploads/2022/03/azure_devops_logo_freelogovectors.net_.png"></code>
+  <code><img height="30" title="Trello" src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png"></code>
+  <code><img height="30" title="Mixpanel" src="https://hubspot-integrators-prod.s3.amazonaws.com/listing/453475.jpeg"></code>
 </details>
 
 ##
