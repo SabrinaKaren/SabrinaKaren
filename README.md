@@ -39,33 +39,6 @@
 
 ##
 
-<details open>
-  <summary><b>Repositórios</b></summary>
-  <br>
-  <div>
-    <a href="https://github.com/SabrinaKaren/aws-java-cdk">
-      <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SabrinaKaren&repo=aws-java-cdk">
-    </a>
-    <a href="https://github.com/SabrinaKaren/comunicacao-microsservicos">
-      <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SabrinaKaren&repo=comunicacao-microsservicos">
-    </a>
-    <a href="https://github.com/SabrinaKaren/full-stack-java-node-angular-project">
-      <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SabrinaKaren&repo=full-stack-java-node-angular-project">
-    </a>
-    <a href="https://github.com/SabrinaKaren/graphQL-projects">
-      <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SabrinaKaren&repo=graphQL-projects">
-    </a>
-    <a href="https://github.com/SabrinaKaren/angular-projects">
-      <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SabrinaKaren&repo=angular-projects">
-    </a>
-    <a href="https://github.com/SabrinaKaren/flutter-projects">
-      <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SabrinaKaren&repo=flutter-projects">
-    </a>
-  </div>
-</details>
-
-##
-
 <div>
   <a href="https://www.linkedin.com/in/sabrina-karen-b18740b6/">
       <img src="https://img.shields.io/badge/-LinkedIn-0073b0?logo=Linkedin&logoColor=white">
