@@ -1,4 +1,4 @@
-<img src="https://github.com/SabrinaKaren/SabrinaKaren/blob/master/media/I_am_programmer.png" alt="screenshot" width="250" align="right">
+<img src="https://github.com/SabrinaKaren/SabrinaKaren/blob/master/media/I_am_programmer.png" alt="screenshot" width="200" align="right">
 
 <h2>Olá, eu sou Sabrina, muito prazer em te ver por aqui! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h2>
 
@@ -32,6 +32,7 @@
   <span>＊</span>
   <code><img height="30" title="aws" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
   <code><img height="30" title="Docker" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png"></code>
+  <code><img height="30" title="GraphQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
   <code><img height="30" title="Swagger" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png"></code>
   <code><img height="30" title="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   <code><img height="30" title="GitHub" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
